@@ -27,8 +27,8 @@
             </div>
             <div class="banner">
                 <h1>YouTuber Programador & Designer</h1>
-                <p>Darkzin</p>
-                <button>Saiba mais</button>
+                <p>darkziin</p>
+                <button>Desça pra baixo</button>
             </div>
         </header>
 
@@ -36,10 +36,10 @@
           <nav>
             <ul class="menu">
               <li class="menu-item"><a href="#" class="menu-link">Home</a></li>
-              <li class="menu-item"><a href="#dark" class="menu-link">Conhecimento</a></li>
-              <li class="menu-item"><a href="#apikey" class="menu-link">Projetos</a></li>
+              <li class="menu-item"><a href="#conhecimentos" class="menu-link">Conhecimento</a></li>
+              <li class="menu-item"><a href="#projetos" class="menu-link">Projetos</a></li>
               <li class="menu-item"><a href="#contato" class="menu-link">Contato</a></li>
-              <li class="menu-item"><a href="#quero um bot" class="menu-link">Orçamento</a></li>
+              <li class="menu-item"><a href="#orcamento" class="menu-link">Orçamento</a></li>
             </ul>
           </nav>
           <div class="social-media">
@@ -60,7 +60,7 @@
                 <h3>HTML</h3>
               </div>
               <div class="conhecimento-text">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui vel obcaecati eaque quos, labore quibusdam incidunt dolores vitae velit voluptates esse omnis enim, dolorem eveniet. Rem ab obcaecati totam ipsum!</p>
+                <p>php</p>
               </div>
             </div>
             <div class="conhecimento">
@@ -69,7 +69,7 @@
                 <h3>CSS</h3>
               </div>
               <div class="conhecimento-text">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore pariatur asperiores incidunt quod, sed aspernatur eos commodi ex nostrum consequuntur aut vero cum illum perferendis earum, eveniet hic itaque. Quod.</p>
+                <p>java script.</p>
               </div>
             </div>
             <div class="conhecimento">
@@ -78,7 +78,7 @@
                 <h3>Design</h3>
               </div>
               <div class="conhecimento-text">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa ex eius voluptatem deleniti alias commodi doloremque aspernatur id adipisci quia ea, distinctio maxime, at nemo. Officiis suscipit excepturi quia aut?</p>
+                <p>kkkkkkkkkk?</p>
               </div>
             </div>
             <div class="conhecimento">
@@ -87,7 +87,7 @@
                 <h3>Javascript</h3>
               </div>
               <div class="conhecimento-text">
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quas facere alias, reprehenderit ullam quibusdam itaque dolor nulla odio inventore culpa molestiae porro ea ad illo, quos dicta ratione quisquam?
+                <p>Ja é inscrito?
                 </p>
               </div>
             </div>
@@ -97,7 +97,7 @@
                 <h3>Boostrap</h3>
               </div>
               <div class="conhecimento-text">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae sequi, quas illo dolor totam voluptas pariatur harum blanditiis veritatis culpa doloremque aspernatur nesciunt dicta iure fuga similique ad, ut impedit.</p>
+                <p>dark</p>
               </div>
             </div>
             <div class="conhecimento">
@@ -106,7 +106,7 @@
                 <h3>Git e GitHub</h3>
               </div>
               <div class="conhecimento-text">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet facilis distinctio quaerat eaque ratione, molestias incidunt a iusto, unde quos magnam ullam exercitationem velit alias, fuga in explicabo ex laborum!</p>
+                <p>darkzin</p>
               </div>
             </div>
             <div class="conhecimentos-img-wrapper">
@@ -127,7 +127,7 @@
               <div class="card-info">
                 <h2>ToDo List</h2>
                 <h3>Javascript</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate ducimus vero maxime amet magnam doloribus eos consequatur expedita architecto hic?</p>
+                <p>apikeys</p>
                 <button class="btn">Saiba Mais</button>
               </div>
             </div>
