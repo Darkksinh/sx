@@ -26,8 +26,8 @@
                 <img src="imagens/bg.jpg" alt="">
             </div>
             <div class="banner">
-                <h1>Web Developer & Front End Designer</h1>
-                <p>João Carlos Lima</p>
+                <h1>YouTuber Programador & Designer</h1>
+                <p>Darkzin</p>
                 <button>Saiba mais</button>
             </div>
         </header>
@@ -36,10 +36,10 @@
           <nav>
             <ul class="menu">
               <li class="menu-item"><a href="#" class="menu-link">Home</a></li>
-              <li class="menu-item"><a href="#conhecimentos" class="menu-link">Conhecimento</a></li>
-              <li class="menu-item"><a href="#projetos" class="menu-link">Projetos</a></li>
+              <li class="menu-item"><a href="#dark" class="menu-link">Conhecimento</a></li>
+              <li class="menu-item"><a href="#apikey" class="menu-link">Projetos</a></li>
               <li class="menu-item"><a href="#contato" class="menu-link">Contato</a></li>
-              <li class="menu-item"><a href="#orcamento" class="menu-link">Orçamento</a></li>
+              <li class="menu-item"><a href="#quero um bot" class="menu-link">Orçamento</a></li>
             </ul>
           </nav>
           <div class="social-media">
