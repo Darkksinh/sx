@@ -1,1 +1,1 @@
-[ "https://i.ibb.co/Kj9RFYW/Soula-20210109182429.jpg","https://i.ibb.co/WcyqmYB/me.jpg","https://i.ibb.co/KL4qcnv/IMG-20210222-WA0612.jpg","https://i.ibb.co/ZGnbhQg/IMG-20210222-WA0610.jpg","https://i.ibb.co/xsqg61S/IMG-20210222-WA0611.jpg ]
+{"nome":"higor","nick":"Dark","sexo":"M - Masculino","numero":"5522"}
