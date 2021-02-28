@@ -3,7 +3,7 @@
 header('Content-type: text/html; charset=utf-8');
 
 //URL da API
-$url = "http://ajax.googleapis.com/ajax/services/search/web?v=2.0&hl=pt-br&cr=countryBR&q=codigofonte.net";
+$url = "https://br.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&titles=boneca";
 
 // Enviando a requisição da URL via Curl
 $ch = curl_init();
